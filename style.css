@@ -1,0 +1,24 @@
+body {
+    background-color: blanchedalmond;
+
+}
+
+
+.hobbies h1{
+    color:rgb(189, 63, 189);
+  font-style: italic;
+  margin: 3px;
+  padding: 2px;
+  text-align: center;
+}
+.hobbies p{
+    font-style: arial;
+  margin: 3px;
+  padding: 2px;
+}
+.hobbies img{
+width: 300px;
+display: flex;
+margin: auto;
+}
+    
